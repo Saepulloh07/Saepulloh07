@@ -30,7 +30,7 @@ Saat ini, saya menyeimbangkan waktu antara mencari **peluang *remote work*** di 
 
 - 🔭 **Fokus Saat Ini:** Mengembangkan aplikasi sistem rumah sakit yang terintegrasi, serta membangun pondasi produk digital untuk Otenik.
 - 🌱 **Eksplorasi:** Menerapkan prinsip *neuroscience* dalam desain antarmuka, pemasaran afiliasi, dan strategi penjualan.
-- 💬 **Tanya saya tentang:** Full-Stack Architecture (Go, Next.js, React), Mobile Dev (React Native, Android), atau bagaimana psikologi mempengaruhi interaksi *user*.
+- 💬 **Tanya saya tentang:** Full-Stack Architecture, Mobile Dev (React Native, Android), atau bagaimana psikologi mempengaruhi interaksi *user*.
 - ⚡ **Di luar *coding*:** Saya gemar menjelajahi alam (terutama flora & fauna), menulis lagu, menggambar ilustrasi, dan melakukan *push-rank* di game RPG (Mobile Legends). 
 
 ---
