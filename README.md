@@ -41,7 +41,7 @@ Saat ini, saya menyeimbangkan waktu antara mencari **peluang *remote work*** di 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,reactnative,android,figma&perline=6" alt="Frontend & Mobile" />
+    <img src="https://skillicons.dev/icons?i=react,python,reactnative,android,figma&perline=6" alt="Frontend & Mobile" />
   </a>
   <br />
   <a href="https://skillicons.dev">
